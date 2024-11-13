@@ -1,5 +1,5 @@
 # Hi, I am Rajan Yadav:
-🔭 I’m currently working on [TextToSpeech](https://github.com/rdkcentral/rdkservices)<br>👯 I’m looking to collaborate on C/C++ or Java Projects<br>🌱 I’m currently learning High Level Designs<br>💬 Ask me about AWS, C/C++, Java, RDK, Voice Assistive Technology<br>⚡ Fun fact : I am Debugging 
+🔭 I’m currently working on Voice Assistive Technolgy in RDK Ecosystem-[TextToSpeech](https://github.com/rdkcentral/rdkservices)<br>👯 I’m looking to collaborate on C/C++ or Java Projects<br>🌱 I’m currently learning High Level Designs<br>💬 Ask me about AWS, C/C++, Java, RDK, Voice Assistive Technology<br>⚡ Fun fact : I am Debugging 
 
 
 ## 🌐 Socials:
